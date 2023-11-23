@@ -11,10 +11,10 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 ```bash
 # using npm
-npm start
+npm install
 
 # OR using Yarn
-yarn start
+yarn install
 ```
 
 ## Step 2: Start the Metro Server
